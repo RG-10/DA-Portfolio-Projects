@@ -1,4 +1,4 @@
-# 🌱Data Analysis and Visualization Projects🌱
+# 🌱Data Analytics and Visualization Projects🌱
 
 This repository showcases various data analysis and visualization projects using different tools and platforms.
 
